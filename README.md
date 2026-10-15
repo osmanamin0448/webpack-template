@@ -15,7 +15,9 @@ This repository serve as a template for webpack projects which prevent the proce
 - webpack-cli
 - webpack-dev-server
 - webpack-merge
-
+- eslint
+- @eslint/js
+- globals
 ## How To Get This Webpack Template Repository
 ```bash
   git clone git@github.com:osmanamin0448/webpack-template.git
